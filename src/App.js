@@ -7,7 +7,7 @@ function App() {
     <>
     <div className="container">
      <Navbar />
-     <Home/>fgfgfdg
+     <Home/>fgfgfdgfghjfgj
      </div>
     </>
   );
